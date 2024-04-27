@@ -24,7 +24,9 @@ This project is a component of another project in robotics. The project empowers
  # Tools used
 
  Android Studio, for mobile application development
+ 
  Roboflow, for data labelling
+ 
  Google Colab, for model training
  
 
