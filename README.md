@@ -19,7 +19,7 @@ This project is a component of another project in robotics. The project empowers
  The models were trained using Google Colab GPUs
 
  ## Model Deployment
- Both models were converted to TF lite files
+ Both models were converted to TF lite files. TF Lite ensures compatibility and leverages mobile-optimized operations.
 
  # Tools used
 
